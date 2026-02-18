@@ -1,0 +1,39 @@
+#title {
+    color:crimson;
+}
+
+p.cococo {
+    /*hola texto, tenía muchas ganas de verte*/
+    color:darkviolet;
+    border:5px violet inset; /* dashed, solid, double, groove, ridge, inset, outset, none, c, dotted*/
+}
+
+.special {
+    
+    color:rgb(255, 204, 0);
+
+}
+
+div p {
+    color:skyblue;
+}
+
+div h2, div h3 {
+
+    color:rgb(9, 77, 173);
+}
+/* hola coso */
+#title * {font-size: 20px;}
+
+#arbuckle {
+    color:aliceblue;
+    background-color: rgb(161, 244, 255);
+    opacity: 1;
+    padding: 100px;
+    border:12px rgb(30, 42, 79) outset;
+    border-radius: 10px;
+    background-image: url("images/la papa.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
